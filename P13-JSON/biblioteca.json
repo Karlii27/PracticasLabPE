@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "titulo": "Cien años de soledad",
+    "autor": "Gabriel Carcía Márquez",
+    "disponible": true
+  },
+  {
+    "id": 3,
+    "titulo": "Orgullo y prejuicio",
+    "autor": "Jane Austen",
+    "disponible": true
+  }
+]
